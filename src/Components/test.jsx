@@ -1,9 +1,9 @@
 export default function Test() {
     const sp = [
-    { id: 1, ten: "sp1", hinh: "1.jpg", mota: "mô tả 0123456", gia: 1000 },
-    { id: 2, ten: "sp2", hinh: "2.jpg", mota: "mô tả 0123456", gia: 2000 },
-    { id: 3, ten: "sp3", hinh: "3.jpg", mota: "mô tả 0123456", gia: 3000 },
-    { id: 4, ten: "sp4", hinh: "4.jpg", mota: "mô tả 0123456", gia: 4000 },
+    { id: 1, ten: "HV1", hinh: "1.jpg", mota: "mô tả 0123456", gia: 1000 },
+    { id: 2, ten: "HV2", hinh: "2.jpg", mota: "mô tả 0123456", gia: 2000 },
+    { id: 3, ten: "HV3", hinh: "3.jpg", mota: "mô tả 0123456", gia: 3000 },
+    { id: 4, ten: "HV4", hinh: "4.jpg", mota: "mô tả 0123456", gia: 4000 },
   ];
 
     return(
